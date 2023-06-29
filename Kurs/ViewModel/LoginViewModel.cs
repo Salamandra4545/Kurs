@@ -36,8 +36,8 @@ namespace Kurs.ViewModel
                       User user = db.User.Where(p => p.Login == login && p.Password == password).FirstOrDefault();
                       if (user != null)
                       {
-                          //SalesView salesView = new SalesView();
-                          //salesView.Show();
+                          CommissionView commissionView = new CommissionView();
+                          commissionView.Show();
                       }
                       else
                       {

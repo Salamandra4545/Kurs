@@ -65,3 +65,14 @@ C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\LoginView.g.cs
 C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\App.baml
 C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\LoginView.baml
 C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\Kurs.csproj.CopyComplete
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\WorkerView.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\WorkerView.baml
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\CommissionView.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\CommissionView.baml
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\MetingView.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\MetingView.baml
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\VisitView.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\VisitView.baml
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\MembersView.g.cs
+C:\Users\banrj\Desktop\Kurs\Kurs\obj\Debug\net7.0-windows\View\MembersView.baml

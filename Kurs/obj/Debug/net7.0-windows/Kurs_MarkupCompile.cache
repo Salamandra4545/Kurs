@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\banrj\Desktop\Kurs\Kurs\App.xaml
-1-1030641879
+62104462331
 
-8-1959310777
+26977986310
 2191117594056
-View\LoginView.xaml;
+View\CommissionView.xaml;View\LoginView.xaml;View\MembersView.xaml;View\MetingView.xaml;View\VisitView.xaml;View\WorkerView.xaml;
 
 False
 

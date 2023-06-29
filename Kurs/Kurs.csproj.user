@@ -7,12 +7,42 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\CommissionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MembersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MetingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\VisitView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\WorkerView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="View\CommissionView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MembersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MetingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\VisitView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\WorkerView.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
